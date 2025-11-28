@@ -1,4 +1,4 @@
-# 🎮 Monty Hall PRO — Animated Game Show Edition 🚀
+# 🎮 Monty Hall Problem Game 🚀
 ### A visually stunning and educational simulation of the world-famous Monty Hall probability paradox
 
 The **Monty Hall Problem** is one of the most surprising and mind-bending puzzles in probability mathematics.  
